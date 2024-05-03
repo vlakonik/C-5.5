@@ -1,0 +1,7 @@
+D:\GitHub\practical-5.5\practical\task2\bin\Debug\task2.exe.config
+D:\GitHub\practical-5.5\practical\task2\bin\Debug\task2.exe
+D:\GitHub\practical-5.5\practical\task2\bin\Debug\task2.pdb
+D:\GitHub\practical-5.5\practical\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\GitHub\practical-5.5\practical\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\GitHub\practical-5.5\practical\task2\obj\Debug\task2.exe
+D:\GitHub\practical-5.5\practical\task2\obj\Debug\task2.pdb

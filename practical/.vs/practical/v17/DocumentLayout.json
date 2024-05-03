@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\practical-5.5\\practical\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{946EC239-7708-4BF8-8D4C-2C3D5DAF4BB6}|practical\\practical.csproj|d:\\github\\practical-5.5\\practical\\practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946EC239-7708-4BF8-8D4C-2C3D5DAF4BB6}|practical\\practical.csproj|solutionrelative:practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D2EEB1-7DC4-40A1-891B-4A3CBFB0BB2E}|task2\\task2.csproj|d:\\github\\practical-5.5\\practical\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D2EEB1-7DC4-40A1-891B-4A3CBFB0BB2E}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\practical-5.5\\practical\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "task2\\Program.cs",
+              "ToolTip": "D:\\GitHub\\practical-5.5\\practical\\task2\\Program.cs",
+              "RelativeToolTip": "task2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:43:01.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\practical-5.5\\practical\\practical\\Program.cs",
+              "RelativeDocumentMoniker": "practical\\Program.cs",
+              "ToolTip": "D:\\GitHub\\practical-5.5\\practical\\practical\\Program.cs",
+              "RelativeToolTip": "practical\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:45:56.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
