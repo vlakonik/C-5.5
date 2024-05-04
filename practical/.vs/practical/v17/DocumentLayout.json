@@ -1,72 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\practical-5.5\\practical\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{946EC239-7708-4BF8-8D4C-2C3D5DAF4BB6}|practical\\practical.csproj|D:\\GitHub\\practical-5.5\\practical\\practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{946EC239-7708-4BF8-8D4C-2C3D5DAF4BB6}|practical\\practical.csproj|solutionrelative:practical\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|practical||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D2EEB1-7DC4-40A1-891B-4A3CBFB0BB2E}|task2\\task2.csproj|d:\\github\\practical-5.5\\practical\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D2EEB1-7DC4-40A1-891B-4A3CBFB0BB2E}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{946EC239-7708-4BF8-8D4C-2C3D5DAF4BB6}|practical\\practical.csproj|d:\\github\\practical-5.5\\practical\\practical\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "practical",
-              "DocumentMoniker": "D:\\GitHub\\practical-5.5\\practical\\practical\\practical.csproj",
-              "RelativeDocumentMoniker": "practical\\practical.csproj",
-              "ToolTip": "D:\\GitHub\\practical-5.5\\practical\\practical\\practical.csproj",
-              "RelativeToolTip": "practical\\practical.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-03T16:05:14.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\practical-5.5\\practical\\task2\\Program.cs",
-              "RelativeDocumentMoniker": "task2\\Program.cs",
-              "ToolTip": "D:\\GitHub\\practical-5.5\\practical\\task2\\Program.cs",
-              "RelativeToolTip": "task2\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:43:01.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\practical-5.5\\practical\\practical\\Program.cs",
-              "RelativeDocumentMoniker": "practical\\Program.cs",
-              "ToolTip": "D:\\GitHub\\practical-5.5\\practical\\practical\\Program.cs",
-              "RelativeToolTip": "practical\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T07:45:56.036Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

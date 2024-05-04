@@ -12,6 +12,9 @@ namespace task2
         static void Main(string[] args) // Задание 2. Перестановка слов в предложении
         {
             Reverse(GetAndSplitText());
+
+            //ReverseMethod(GetAndSplitText());
+
             Pause();
         }
         private static string GetAndSplitText()
@@ -20,6 +23,10 @@ namespace task2
             string text = Console.ReadLine();
             return text;
         }
+        /// <summary>
+        /// Метод через цикл for()
+        /// </summary>
+        /// <param name="text"></param>
         private static void Reverse(string text)
         {
             string[] array = text.Split(' ');
@@ -37,6 +44,24 @@ namespace task2
                 Console.Write($"{array[i]} ");
             }
         }
+        /// <summary>
+        /// Это вариант с методом Array.Reverse(), а не через цикл for()
+        /// </summary>
+        /// <param name="text"></param>
+        private static void ReverseMethod(string text)
+        {
+            string[] array = text.Split(' ');
+            Array.Reverse(array);
+
+            Console.WriteLine("\nВ столбик: ");
+            foreach (string i in array)
+            {
+                Console.WriteLine($"\n{i}");
+            }
+        }
+
+
+
         private static void Pause()
         {
             Console.ReadKey();
